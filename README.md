@@ -443,6 +443,7 @@
 | [Desmos](https://www.desmos.com/)                            | Graphing, scientific, matrix calculators, and more. [You can do a lot of cool stuff in it.](https://www.desmos.com/calculator/wbhg1v3uvd) |
 | [R](https://www.r-project.org/)                              | Free software environment for statistical computing and graphics. |
 | [OmniCalculator](https://www.omnicalculator.com/)            | A huge collection of calculators for problems in chemistry, conversion, food, everyday-life, math, and more. 1289 free calculators in total. |
+| [Practical Web Tools](https://practicalwebtools.com/)      | 1,400+ free browser-based tools: PDF editors & converters, file/image/audio converters, and 200+ calculators for finance, health, math, and science. All client-side — no uploads. |
 | [QuickMath](https://quickmath.com/)                          | Quick and simple equation, inequality, or system solver, providing step-by-step solutions. |
 
 ### Resources
